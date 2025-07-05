@@ -58,7 +58,7 @@ No installations or dependencies required.
 Connect with me:  
 - [LinkedIn](https://www.linkedin.com/in/yash-raj-935303269/)  
 - [GitHub](https://github.com/Yashraj0103)  
-- Email: official.yash0103.com
+- Email: official.yash0103@gmail.com
 
 ---
 
