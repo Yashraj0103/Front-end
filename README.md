@@ -16,8 +16,7 @@ This repository contains a collection of basic web projects built using **HTML**
 
 A clean and responsive **personal portfolio** website to showcase my skills, projects, and contact information.
 
-### 🔗 Live Demo
-[View Portfolio](https://your-portfolio-link.com)
+
 
 ### 🚀 Features
 - Responsive design
@@ -32,8 +31,7 @@ A clean and responsive **personal portfolio** website to showcase my skills, pro
 
 A visually engaging and interactive **landing page** dedicated to Formula 1 Racing. Built using HTML, CSS, and JavaScript.
 
-### 🔗 Live Demo
-[View Landing Page](https://your-f1-landing-page-link.com)
+
 
 ### 🚀 Features
 - Hero section with visuals and content
@@ -50,8 +48,7 @@ A visually engaging and interactive **landing page** dedicated to Formula 1 Raci
 
 A basic web-based **calculator** that performs arithmetic operations like addition, subtraction, multiplication, and division.
 
-### 🔗 Live Demo
-[Try Calculator](https://your-calculator-link.com)
+
 
 ### 🚀 Features
 - Basic arithmetic operations
