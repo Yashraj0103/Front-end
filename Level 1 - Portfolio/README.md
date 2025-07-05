@@ -2,12 +2,7 @@
 
 This is a simple and responsive **Personal Portfolio Website** built using **HTML** and **CSS**. It showcases my skills, projects, contact details, and other personal information to represent my online presence professionally.
 
-## 🌐 Live Demo
 
-You can view the live website here: [Link to Portfolio](https://your-portfolio-link.com)  
-*(Replace the above link with your actual live site if hosted)*
-
----
 
 ## 📁 Features
 
