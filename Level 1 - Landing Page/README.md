@@ -4,12 +4,6 @@ This is a modern and interactive **landing page** dedicated to **Formula 1 Racin
 
 ---
 
-## 🌐 Live Preview
-
-Check out the live version: [F1 Landing Page](https://your-deployed-site-link.com)  
-*(Replace the above link with your actual deployed link if hosted on GitHub Pages, Netlify, etc.)*
-
----
 
 ## 🚀 Features
 
