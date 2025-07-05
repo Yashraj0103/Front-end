@@ -4,11 +4,6 @@ A basic and user-friendly **calculator web application** built using **HTML**, *
 
 ---
 
-## 🌐 Live Demo
-
-Check it out here: [Simple Calculator](https://your-deployed-link.com)  
-
----
 
 ## ✨ Features
 
