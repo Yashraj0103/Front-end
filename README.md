@@ -26,6 +26,7 @@ A clean and responsive **personal portfolio** website to showcase my skills, pro
 ### 🛠️ Built With
 - HTML5
 - CSS3
+- JAVASCRIPT
 
 ## 🏁 F1 Racing Landing Page
 
