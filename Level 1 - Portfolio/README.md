@@ -19,6 +19,7 @@ This is a simple and responsive **Personal Portfolio Website** built using **HTM
 
 - HTML5
 - CSS3
+- JAVASCRIPT
 
 ---
 
