@@ -1,0 +1,99 @@
+body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .calculator {
+            width: 320px;
+            border-radius: 20px;
+            padding: 25px;
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(10px);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .display {
+            width: 100%;
+            height: 80px;
+            margin-bottom: 25px;
+            padding: 15px;
+            font-size: 32px;
+            text-align: right;
+            border: none;
+            border-radius: 12px;
+            background: rgba(0, 0, 0, 0.2);
+            color: white;
+            box-shadow: inset 0 4px 15px rgba(0, 0, 0, 0.1);
+            box-sizing: border-box;
+            outline: none;
+        }
+
+        .buttons {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+        }
+
+        button {
+            height: 60px;
+            font-size: 20px;
+            font-weight: 500;
+            border: none;
+            border-radius: 12px;
+            cursor: pointer;
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            transition: all 0.2s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        button:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-2px);
+        }
+
+        button:active {
+            transform: translateY(0);
+        }
+
+        button.operator {
+            background: rgba(255, 159, 67, 0.6);
+            font-weight: 600;
+        }
+
+        button.operator:hover {
+            background: rgba(255, 159, 67, 0.8);
+        }
+
+        button.clear {
+            background: rgba(255, 99, 71, 0.6);
+        }
+
+        button.clear:hover {
+            background: rgba(255, 99, 71, 0.8);
+        }
+
+        button.equals {
+            background: rgba(46, 213, 115, 0.7);
+            grid-column: span 2;
+            font-weight: 600;
+        }
+
+        button.equals:hover {
+            background: rgba(46, 213, 115, 0.9);
+        }
+
+        /* Special styling for 00 button */
+        button.double-zero {
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        button.double-zero:hover {
+            background: rgba(255, 255, 255, 0.25);
+        }
